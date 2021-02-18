@@ -4,7 +4,7 @@
 * [Screenshots](#screenshots)
 
 ## General info
-This project is a simple number generator that let's you guess the randomly generated number;
+This project is a simple number generator that let's you guess the randomly generated number.
 	
 ## Technologies
 Project is created with:
