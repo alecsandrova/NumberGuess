@@ -1,7 +1,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Screenshots] (#screenshots)
+* [Screenshots](#screenshots)
 
 ## General info
 This project is a simple number generator that let's you guess the randomly generated number;
